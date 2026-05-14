@@ -1,0 +1,21 @@
+# Build
+target/
+*.class
+
+# Local secrets (never commit real passwords)
+local.properties
+.env
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
